@@ -1,0 +1,26 @@
+{
+  "name": "tailwindcss-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanh-cao/tailwindcss-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanh-cao/tailwindcss-basics/issues"
+  },
+  "homepage": "https://github.com/thanh-cao/tailwindcss-basics#readme",
+  "dependencies": {
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.4",
+    "tailwindcss": "^2.2.19",
+    "vite": "^2.6.14"
+  }
+}
